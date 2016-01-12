@@ -13,7 +13,7 @@ You + Your Family
 
 All full time employees enjoy 100% coverage of health insurance premiums across our Medical, Dental and Vision plan offerings, including coverage for dependents. We also offer four months of paid family leave to all new parents with the flexibility of using it all at once, or throughout the baby’s first year.
 
-Stay fit
+Stay, fit
 ---
 
 We cover gym memberships and offer fitness classes in our onsite gym, the OctoDojo. In the Zen room, Hubbers can recharge through meditation or complimentary massage.
