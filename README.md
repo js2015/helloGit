@@ -1,4 +1,4 @@
 # helloGit
 # dummy change
 
-![profile](/images/profile.png)
+[Keep growing](Chapter01/#keep-growing)
