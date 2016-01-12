@@ -1,7 +1,7 @@
 
 # Table of Contents
 
-1. [Keep growing](Chapter01.md/#keep-growing)
+- [Keep growing](Chapter01.md/#keep-growing)
   - [sub item #1](Chapter01.md/#keep-growing)
     - [sub sub item #1](Chapter01.md/#keep-growing)
   - [sub item #2](Chapter01.md/#keep-growing)
